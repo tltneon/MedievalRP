@@ -1,0 +1,7 @@
+"medievalrp"
+{
+	"base"		"nutscript"
+	"title"		"Medieval RP"
+	"author"	"T&S;Base:Black Tea"
+	"menusystem" "1"
+}
